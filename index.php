@@ -1,3 +1,3 @@
 <?php
-    header("location:five-review/admin/index.php");
+    header("location:five-review/site/index.php");
 ?>
